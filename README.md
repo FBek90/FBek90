@@ -1,9 +1,9 @@
-### Hi there, I am Fayozbek 👋
+### Hi there, I am Fayozbek ([My Portfolio][website])👋
 
 ## I'm a Husband, Developer, and Bug Hunter!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👨‍💻 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel, swimming, reading books
 
@@ -25,8 +25,24 @@
   </div>
   <br>
   
-  <summary>:zap: Recent GitHub Stats</summary>
-  <br>
+  <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+ 
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#77](https://github.com/mukhtorov/orderfood/tree/home) in [uzFoode-commerce/filters](https://github.com/mukhtorov/orderfood/tree/home)
+2. 🎉 Merged PR [#78](https://github.com/mukhtorov/orderfood/tree/home) in [uzFoode-commerce/billing](https://github.com/mukhtorov/orderfood/tree/billing/src)
+3. 🗣 Commented on [#17](https://github.com/mukhtorov/orderfood/tree/tagSidebar) in [sideBar-completed](https://github.com/mukhtorov/orderfood/tree/tagSidebar)
+4. ❌ Closed PR [#63](https://github.com/mukhtorov/wbba_web/tree/avatar) in [Web-Brain_Academy/Ant-Design](https://github.com/mukhtorov/wbba_web/tree/avatar)
+5. 🎉 Merged PR [#62](https://github.com/kholdarboev/houzing/tree/myProfile) in [houzing/myProfile](https://github.com/kholdarboev/houzing/tree/myProfile)
+6. 🎉 Merged PR [#31](https://github.com/kholdarboev/houzing/tree/footer) in [houzing/footer](https://github.com/kholdarboev/houzing/tree/footer)
+7. 🎉 Merged PR [#67](https://github.com/kholdarboev/houzing/tree/invoice) in [houzing/invoice](https://github.com/kholdarboev/houzing/tree/invoice)
+8. 🎉 Merged PR [#6](https://github.com/kholdarboev/houzing/tree/navbar) in [houzing/navbar](https://github.com/kholdarboev/houzing/tree/navbar)
+ 
+
+ 
+<!--END_SECTION:activity-->
+</details>
+
   <div>
   <a href="https://github.com/FBek90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FBek90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -34,3 +50,6 @@
 </div>
   
   ![Snake animation](https://github.com/FBek90/FBek90/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  [website]: https://codeSTACKr.com
