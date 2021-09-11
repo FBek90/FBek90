@@ -33,4 +33,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBek90&layout=compact&langs_count=3&theme=dracula"/> 
 </div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FBek90/FBek90/blob/output/github-contribution-grid-snake.svg)
