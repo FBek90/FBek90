@@ -1,6 +1,6 @@
-### Hi there, I am Fayozbek ([My Portfolio][website])👋
+## Hi there, I am Fayozbek ([My Portfolio][website])👋
 
-## I'm a Husband, Developer, and Bug Hunter!!
+### I'm a Husband, Developer, and Bug Hunter!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👨‍💻 I’m looking to collaborate with other content creators
