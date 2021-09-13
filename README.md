@@ -55,4 +55,4 @@
   ![Snake animation](https://github.com/FBek90/FBek90/blob/output/github-contribution-grid-snake.svg)
   
   
-  [website]: https://codeSTACKr.com
+  [website]: https://fayozbek-portfolio.netlify.app/
